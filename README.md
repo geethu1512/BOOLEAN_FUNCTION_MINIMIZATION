@@ -10,17 +10,17 @@ F1= A’B’C’D’+AC’D’+B’CD’+A’BCD+BC’D
 
 F2=xy’z+x’y’z+w’xy+wx’y+wxy
 
-**Equipment Required:**
+**EQUIPMENT REQUIRED:**
 
 Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 
-**Theory**
+**THEORY**
 Implementing BOOLEAN functions in Verilog HDL (Hardware Description Language) involves translating the simplified Boolean expressions into Verilog code to describe the behavior of digital circuits. The basic building blocks in Verilog is module. The module represent a combinational circuit. Use logical operators (&, |, ~, ^) to implement Boolean functions directly. Use built-in gate primitives for basic functions. Use University program VWF to verify the functionality of your Verilog modules. Create waveform and check outputs against expected results.
 
 
-**Procedure**
+**PROCEDURE**
 
 1.	Type the program in Quartus software.
 
@@ -33,7 +33,7 @@ Implementing BOOLEAN functions in Verilog HDL (Hardware Description Language) in
 5.	For different input combinations generate the timing diagram.
 
 
-**Program:**
+**PROGRAM:**
 ![Screenshot 2024-11-14 133511](https://github.com/user-attachments/assets/22abc19d-be4d-41bd-9671-e86ae31bbc5f)
 
 * Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
@@ -43,14 +43,14 @@ Implementing BOOLEAN functions in Verilog HDL (Hardware Description Language) in
 ![WhatsApp Image 2024-11-14 at 14 40 37_3ca0e7d9](https://github.com/user-attachments/assets/a597c0e9-7e6f-4a05-8090-268e5bb70409)
 
 
-**RTL realization OUTPUT:**
+**RTL REALIZATION OUTPUT:**
 ![Screenshot 2024-11-14 133649](https://github.com/user-attachments/assets/204e3336-7678-4315-ae10-04300491e6d0)
 
-**WAVEFORM Output:**
+**WAVEFORM OUTPUT:**
 ![Screenshot 2024-11-14 133742](https://github.com/user-attachments/assets/a497c929-41cb-4e2f-b3c3-f27ce26e07e6)
 
 
-**Result:**
+**RESULT:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
