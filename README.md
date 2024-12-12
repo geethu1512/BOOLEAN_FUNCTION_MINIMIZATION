@@ -44,6 +44,8 @@ Implementing BOOLEAN functions in Verilog HDL (Hardware Description Language) in
 
 
 **RTL REALIZATION OUTPUT:**
+
+
 ![Screenshot 2024-11-14 133649](https://github.com/user-attachments/assets/204e3336-7678-4315-ae10-04300491e6d0)
 
 **WAVEFORM OUTPUT:**
